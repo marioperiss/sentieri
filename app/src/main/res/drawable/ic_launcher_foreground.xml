@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Two alpine ridges, kept inside the adaptive icon safe area. -->
+    <path
+        android:fillColor="#B8D8B0"
+        android:pathData="M9,79 L34,43 L48,61 L62,39 L99,82 L99,93 L9,93 Z" />
+    <path
+        android:fillColor="#F4F1E6"
+        android:pathData="M18,82 L42,49 L54,66 L66,47 L91,82 Z" />
+    <path
+        android:fillColor="#DCE9D3"
+        android:pathData="M34,60 L42,49 L50,60 L45,57 L42,61 L39,57 Z" />
+    <path
+        android:fillColor="#DCE9D3"
+        android:pathData="M59,57 L66,47 L75,61 L70,57 L66,61 L63,57 Z" />
+    <!-- A warm trail bends toward a small summit marker. -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M57,91 C58,83 72,82 70,73 C68,66 58,65 61,58 C63,53 70,51 74,48"
+        android:strokeColor="#E58A43"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="5" />
+    <path
+        android:fillColor="#E58A43"
+        android:pathData="M74,39 A7,7 0,1 0,74 53 A7,7 0,1 0,74 39 Z" />
+</vector>

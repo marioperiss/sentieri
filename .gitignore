@@ -1,0 +1,40 @@
+# Android e Gradle
+.gradle/
+**/build/
+local.properties
+**/local.properties
+.externalNativeBuild/
+.cxx/
+captures/
+
+# IDE
+.idea/
+.kotlin/
+.vscode/
+*.iml
+
+# Chiavi API e credenziali
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*credentials*
+*secrets*
+
+# File temporanei
+*.log
+*.backup
+*.backup.*
+.DS_Store
+
+# Backup e copie temporanee
+*.bak
+*.bak*
+*.backup
+*.backup.*
+
+# File temporanei aggiuntivi
+*.log
